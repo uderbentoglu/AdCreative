@@ -1,0 +1,15 @@
+C:\Users\u_der\source\repos\PhotoDownloader\PhotoDownloader\bin\Debug\netcoreapp3.1\PhotoDownloader.exe
+C:\Users\u_der\source\repos\PhotoDownloader\PhotoDownloader\bin\Debug\netcoreapp3.1\PhotoDownloader.deps.json
+C:\Users\u_der\source\repos\PhotoDownloader\PhotoDownloader\bin\Debug\netcoreapp3.1\PhotoDownloader.runtimeconfig.json
+C:\Users\u_der\source\repos\PhotoDownloader\PhotoDownloader\bin\Debug\netcoreapp3.1\PhotoDownloader.runtimeconfig.dev.json
+C:\Users\u_der\source\repos\PhotoDownloader\PhotoDownloader\bin\Debug\netcoreapp3.1\PhotoDownloader.dll
+C:\Users\u_der\source\repos\PhotoDownloader\PhotoDownloader\bin\Debug\netcoreapp3.1\PhotoDownloader.pdb
+C:\Users\u_der\source\repos\PhotoDownloader\PhotoDownloader\obj\Debug\netcoreapp3.1\PhotoDownloader.AssemblyInfoInputs.cache
+C:\Users\u_der\source\repos\PhotoDownloader\PhotoDownloader\obj\Debug\netcoreapp3.1\PhotoDownloader.AssemblyInfo.cs
+C:\Users\u_der\source\repos\PhotoDownloader\PhotoDownloader\obj\Debug\netcoreapp3.1\PhotoDownloader.dll
+C:\Users\u_der\source\repos\PhotoDownloader\PhotoDownloader\obj\Debug\netcoreapp3.1\PhotoDownloader.pdb
+C:\Users\u_der\source\repos\PhotoDownloader\PhotoDownloader\obj\Debug\netcoreapp3.1\PhotoDownloader.genruntimeconfig.cache
+C:\Users\u_der\source\repos\PhotoDownloader\PhotoDownloader\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\u_der\source\repos\PhotoDownloader\PhotoDownloader\obj\Debug\netcoreapp3.1\PhotoDownloader.csproj.CoreCompileInputs.cache
+C:\Users\u_der\source\repos\PhotoDownloader\PhotoDownloader\obj\Debug\netcoreapp3.1\PhotoDownloader.csproj.CopyComplete
+C:\Users\u_der\source\repos\PhotoDownloader\PhotoDownloader\obj\Debug\netcoreapp3.1\PhotoDownloader.csprojAssemblyReference.cache

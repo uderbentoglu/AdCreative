@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W/yyXWiNdrps+32Vb5obmrVW940IxljChWEp3svqWRv139yLfyRZERYPBFZIKAYcNUEUrJkAkL2vNXMH1eu+Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\u_der\\source\\repos\\PhotoDownloader\\PhotoDownloader\\PhotoDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\u_der\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
